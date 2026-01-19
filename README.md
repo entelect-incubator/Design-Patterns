@@ -2,12 +2,6 @@
 
 A comprehensive guide to design patterns, SOLID principles, clean code, and architectural patterns essential for building production-grade applications.
 
-**📚 Full Documentation:** https://github.com/entelect-incubator/Design-Patterns
-
-> This local folder provides quick navigation and references to each pattern. For detailed explanations, code examples, and language-specific implementations, refer to the GitHub repository.
-
----
-
 ## Why These Patterns Matter
 
 You're three months into your first real project. The feature you built last week needs a change. You open the code and your heart sinks — it's everywhere. The logic you thought was isolated touches seven different files. Changing it means risking breakage in places you didn't even know existed. Your teammate mentions "we should have used the Repository pattern here," but you don't know what that means. You spend two days making what should have been a 30-minute change.
